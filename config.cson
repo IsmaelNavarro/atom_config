@@ -1,0 +1,16 @@
+"*":
+  core: {}
+  editor:
+    fontSize: 16
+    invisibles: {}
+  "exception-reporting":
+    userId: "aded9a82-1fb5-4848-c7a9-148005eea5e8"
+  "opened-files": {}
+  "remote-sync":
+    difftoolCommand: "C:\\Program Files (x86)\\WinMerge\\WinMergeU.exe"
+  "sync-settings":
+    _analyticsUserId: "0d4108a3-c5fa-4e16-8a24-a9518aa7e30d"
+    gistId: "2cb81f18b76580a2ae6f"
+    personalAccessToken: "e2374cd5b22cee918b2cb2222140bf5150686036"
+  welcome:
+    showOnStartup: false
